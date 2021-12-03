@@ -1,0 +1,6 @@
+//github 
+
+https://github.com/Dirvann/webrtc-video-conference-simple-peer
+
+//article
+https://www.dmcinfo.com/latest-thinking/blog/id/9852/multi-user-video-chat-with-webrtc
